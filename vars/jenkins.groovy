@@ -1,3 +1,3 @@
 def call() {
-    echo "Hi Rajratna"
+    echo "Hi Rajratna from shared library!"
 }
